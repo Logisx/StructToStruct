@@ -8,6 +8,19 @@
 
 >This is a proof-of-concept version of the product developed for Peikko company during Junction2024 Hackathon.
 
+## 📑 Table of Contents
+- [🏗️🤖 Peikko Smart Consultant](#️-peikko-smart-consultant)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🚀 Overview](#-overview)
+  - [🔧 Our Solution](#-our-solution)
+  - [🏗️ How It Works](#️-how-it-works)
+    - [1️⃣ **3D Visualization \& Analysis**](#1️⃣-3d-visualization--analysis)
+    - [2️⃣ **AI-Powered Product Recommendation**](#2️⃣-ai-powered-product-recommendation)
+    - [3️⃣ **AI Chatbot Assistance**](#3️⃣-ai-chatbot-assistance)
+  - [🤝 Team \& Acknowledgments](#-team--acknowledgments)
+    - [📩 Contact](#-contact)
+
+
 ## 🚀 Overview
 [**Peikko**](https://www.peikko.com) sells industrial connections for construction, such as beam-to-column connectors, and faces a common problem: 
 - Customers provide **IFC files** containing complex building information.
